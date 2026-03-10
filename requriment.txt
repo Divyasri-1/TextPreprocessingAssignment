@@ -1,4 +1,0 @@
-2️⃣ Create `requirements.txt`
-- Again click **Add file → Create new file**.
-- Name it `requirements.txt`.
-- Paste this content:
